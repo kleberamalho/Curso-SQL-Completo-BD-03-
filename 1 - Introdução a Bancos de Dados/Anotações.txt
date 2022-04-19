@@ -1,0 +1,14 @@
+Aula 1
+
+Banco de dados não relacionais
+ -Arquivos estruturados
+
+Banco de dados relacionais 
+ - Dados organizados em tabelas 
+ - Tabelas podem se relacionar com outras tabelas 
+ - Nenor espaço de armazenamento 
+ - Maior velocidade de acesso aos dados 
+ - Padrão mundialmente ultilizado   
+
+Banco de dados 
+ Ferramentas de permitem o armazenamento e manipulação de dados organizados em forma de tabelas 
